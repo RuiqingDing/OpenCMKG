@@ -6,6 +6,8 @@
 - OwnThink：https://www.ownthink.com/docs/kg, 2022年4月23日获取
 - CHIP2021：http://cips-chip.org.cn/2021/eval1, 2022年4月20日获取
 
+> 仅用于学术研究，不得用于商用。如认为侵犯了您的版权，请联系删除
+
 ## 文件说明
 
 `triples.txt`: 3列（实体1，关系，实体2），逗号隔开
