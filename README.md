@@ -2,9 +2,9 @@
 
 这是一个开源的中文医疗知识图谱，由以下数据聚合得到：
 
-- QAKG：https://github.com/liuhuanyong/QASystemOnMedicalKG,2021年7月8日获取
+- QAKG：https://github.com/liuhuanyong/QASystemOnMedicalKG, 2021年7月8日获取
 - OwnThink：https://www.ownthink.com/docs/kg, 2022年4月23日获取
-- CHIP2021：http://cips-chip.org.cn/2021/eval1,2022年4月20日获取
+- CHIP2021：http://cips-chip.org.cn/2021/eval1, 2022年4月20日获取
 
 ## 文件说明
 
